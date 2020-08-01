@@ -35,7 +35,7 @@ class ActividadesSeleccionadas():
         for i in range(len(lista)):
             Label(secondframe, text=lista[i],font =('Bahnschrift SemiBold SemiConden', 14), padx=5, pady=5).pack()
             self.listaScrolls.append(Scale(secondframe, from_=0, to=10, orient=HORIZONTAL, length=200, showvalue=1))
-            self.listaScrolls[i].pack()
+            self.listaScrolls[i].pack(padx = 90)
         self.my_canvas.create_window((0, 0),window=secondframe, anchor='nw')
         self.confirmarbttn = Button(secondframe, text='Confirmar', command=self.Siguiente)
         self.confirmarbttn.pack(padx=5, pady=5)
