@@ -1,0 +1,15 @@
+Yoga,Ejercicio,10,10,9,7,9,10,10,10,10,7
+Hit,Ejercicio,8,5,7,9,7,8,8,8,5,9
+Aerobicos,Ejercicio,8,4,8,9,8,8,9,9,4,9
+Guitarra,Musica,3,8,7,5,7,3,7,7,8,5
+Piano,Musica,4,9,8,4,8,4,8,8,9,4
+Lectura Partituras,Musica,2,5,7,2,7,2,5,5,5,2
+Manga,Literatura,7,3,7,7,7,7,7,7,3,7
+Literatura Clasica,Literatura,9,4,8,6,8,9,8,8,4,6
+Lectura General,Literatura,9,3,8,7,8,9,8,8,3,7
+Cursos,Aprender,6,9,3,10,3,6,5,5,9,10
+Idiomas,Aprender,4,8,3,9,3,4,5,5,8,9
+Cocina,Aprender,3,8,9,9,9,3,8,8,8,9
+Estrenos,Series y Peliculas,9,8,7,4,7,9,7,7,8,4
+Cine Clasico,Series y Peliculas,8,7,7,3,7,8,8,8,7,3
+Plataformas de Series,Series y Peliculas,10,10,10,4,10,10,9,9,10,4
